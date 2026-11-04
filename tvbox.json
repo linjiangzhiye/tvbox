@@ -4,7 +4,7 @@
       "key": "qinghuaci",
       "name": "青花瓷",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/linjiangzhiye/tvbox/refs/heads/main/qinghuaci",
+      "api": "https://raw.githubusercontent.com/linjiangzhiye/tvbox/main/qinghuaci",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
