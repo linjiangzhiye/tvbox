@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "qinghuaci",
+      "name": "青花瓷",
+      "type": 3,
+      "api": "https://raw.gitmirror.com/linjiangzhiye/tvbox/main/qinghuaci",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
